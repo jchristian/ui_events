@@ -1,0 +1,14 @@
+﻿Code version: 6.1.37.86
+Assembly name WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 mvid {bbe51cdc-44b4-4eb6-8225-a054b70dbde8}
+* ref mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {b7c812f1-8810-4f4f-a839-bba42bb75423}
+* ref System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {147de0f7-6a98-4002-9407-592a3ca17c78}
+* ref System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  mvid {3e543bd8-bc82-454c-9ac5-bb3a4468f586}
+* ref System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {140717cc-5ad6-4362-b9b8-5b09880a228b}
+* ref System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {ec5fb234-ed89-462c-9aad-25d9565d06ef}
+* ref Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  mvid {c5c513b4-1a43-4828-ac00-c4912c4b26df}

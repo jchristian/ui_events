@@ -1,0 +1,20 @@
+﻿Code version: 6.1.37.86
+Assembly name PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 mvid {97c6c7e2-5492-4f64-90b9-c85cb961075b}
+* ref mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {b7c812f1-8810-4f4f-a839-bba42bb75423}
+* ref System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {147de0f7-6a98-4002-9407-592a3ca17c78}
+* ref WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  mvid {bbe51cdc-44b4-4eb6-8225-a054b70dbde8}
+* ref UIAutomationProvider, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  mvid {ea195893-35c8-4434-838a-6f8458e037b8}
+* ref System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {140717cc-5ad6-4362-b9b8-5b09880a228b}
+* ref UIAutomationTypes, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  mvid {516239e4-8ebf-4424-b3d6-ebf837e748b9}
+* ref System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {ec5fb234-ed89-462c-9aad-25d9565d06ef}
+* ref System.Windows.Input.Manipulations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {1901c3e4-3b14-4a26-b5fe-e0e1f3f922ea}
+* ref System.Deployment, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  mvid {ec4d7a2f-8501-4dd0-bc4e-5411775e0f25}

@@ -1,0 +1,27 @@
+﻿<Window x:Class="UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:UI="clr-namespace:UI"
+        Title="MainWindow" Height="800" Width="1000">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <Button Grid.Column="1" Height="40" Click="OnAddClick">Add</Button>
+        <Label FontSize="24" Padding="15">This is the fund name!</Label>
+        <TabControl Grid.Row="1" Name="tabRiskProfiles" ItemsSource="{Binding DataTabs}">
+            <TabControl.ItemTemplate>
+                <DataTemplate>
+                    <TabItem Header="{Binding RiskProfile.Name}">
+                        <UI:TabContent DataContext="{Binding MonthlyData}" />
+                    </TabItem>
+                </DataTemplate>
+            </TabControl.ItemTemplate>
+        </TabControl>
+    </Grid>
+</Window>
